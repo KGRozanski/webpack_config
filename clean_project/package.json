@@ -28,7 +28,8 @@
     "webpack-cli": "^3.2.1",
     "webpack-dev-server": "^3.2.0",
     "webpack-stylish": "^0.1.8",
-    "clean-webpack-plugin": "^2.0.1"
+    "clean-webpack-plugin": "^2.0.1",
+    "ftp-deploy": "2.3.3"
   },
   "dependencies": {
     "bootstrap": "^4.2.1",
